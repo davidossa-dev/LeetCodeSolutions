@@ -1,2 +1,2 @@
-// The Swift Programming Language
-// https://docs.swift.org/swift-book
+// Base class to group all solutions in one place.
+class Solution {}
